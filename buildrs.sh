@@ -1,0 +1,1 @@
+./gradlew --fresh-dependencies clean build runClient runServer

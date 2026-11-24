@@ -1,0 +1,24 @@
+
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IOI",
+    "ORO",
+    "IOI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "bordercontrol:border_block",
+    "count": 2
+  }
+}
